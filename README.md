@@ -14,7 +14,9 @@ http://localhost/payment-stripe_02
 ```    
 
 ## Screenshots
-![](https://raw.githubusercontent.com/codehafeez/payment-stripe_01/main/Screenshots/Output-01.png)
+![](https://raw.githubusercontent.com/codehafeez/payment-stripe_02/main/Screenshots/Output-01.png)
+![](https://raw.githubusercontent.com/codehafeez/payment-stripe_02/main/Screenshots/Output-02.png)
+![](https://raw.githubusercontent.com/codehafeez/payment-stripe_02/main/Screenshots/Output-03.png)
 
 
 ## 🔗 www.codehafeez.com
